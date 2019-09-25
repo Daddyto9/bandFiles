@@ -64,7 +64,7 @@ cause "cover" was too large, how 2 fix? */
 /* im still trying to figure out how to fit the text in the box */
 
 .sub {
-    height: 50%;
+    height: 90%;
     background-color: rgb(148, 19, 187);
     margin: none;
     line-height: auto;
